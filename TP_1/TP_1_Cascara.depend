@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1503954511 source:d:\documents and settings\administrador\mis documentos\descargas\tp_1_cascara\tp_1_cascara\funciones.c
+
+1504118176 source:d:\documents and settings\administrador\escritorio\nuevo maletín\tp_1\funciones.c
+
+1504119204 source:d:\documents and settings\administrador\escritorio\nuevo maletín\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504119058 d:\documents and settings\administrador\escritorio\nuevo maletín\tp_1\funciones.h
+
