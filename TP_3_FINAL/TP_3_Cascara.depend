@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1508885588 source:d:\documents and settings\administrador\escritorio\workspace\mi_tp_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508885549 d:\documents and settings\administrador\escritorio\workspace\mi_tp_3\funciones.h
+
+1508885746 source:d:\documents and settings\administrador\escritorio\workspace\mi_tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508963300 source:d:\documents and settings\administrador\escritorio\workspace\tp_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508962642 d:\documents and settings\administrador\escritorio\workspace\tp_3\funciones.h
+
+1508962616 source:d:\documents and settings\administrador\escritorio\workspace\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
